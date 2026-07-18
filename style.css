@@ -1,0 +1,33 @@
+body{
+    background:#e88d8d;
+    text-align:center;
+}
+h1{
+    color:black;
+}
+p{
+    color:#9d1d1d;
+}
+a{
+    display:block;
+    background:lightpink;
+    border:2px solid black;
+    border-radius:20px;
+    padding:15px;
+}
+.button{
+    display:block;
+    width:200px;
+    margin:20px auto;
+    padding:15px;
+    background:lightpink;
+    border:2px solid black;
+    border-radius:20px;
+    text-decoration:none;
+    color:black;
+}
+img{
+    display:block;
+    width:250px;
+    margin:auto;
+}
